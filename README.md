@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sanpedro-apps.github.io/.github/whisk">
+  <a href="https://demin-apps.github.io/.github/whisk">
     <img src="https://applications.kitco.com/sites/default/files/mac-button.png" width="200" alt="Get for Mac"/>
   </a>
 </p>
